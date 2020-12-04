@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/cod/0"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/cod/1" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/cod/2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/cod/3" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/cod/4" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/cod/hilusination" }
+	]
+}
